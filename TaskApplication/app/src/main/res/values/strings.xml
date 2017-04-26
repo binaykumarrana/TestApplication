@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskApplication</string>
+    <string name="btn_upload_file">Select File to Read</string>
+</resources>
